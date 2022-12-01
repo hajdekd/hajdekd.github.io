@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Bloge
+title: "Blog"
 ---
 
 My info
