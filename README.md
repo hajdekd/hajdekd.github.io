@@ -10,7 +10,7 @@ layout: page
 
  ## [Classification](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
  
- Context and Objective
+ **Context and Objective**
  
 - A bank wants to forecast which customers have a higher possibility to apply for and getting accepted for a personal loan.
 - The goal of the project is to through classification model predict which clients will apply for the loan. 
@@ -21,7 +21,7 @@ layout: page
 
 
 
-## Based on
+### Based on
 
 - [Hyde](https://github.com/poole/hyde)
 - [Minima](https://github.com/jekyll/minima)
