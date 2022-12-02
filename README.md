@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 
- [Classification Project](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
+ ## [Classification Project](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
  
  Context and Objective
  
