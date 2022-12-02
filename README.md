@@ -4,6 +4,17 @@ permalink: "/about/"
 layout: page
 ---
 
+ [Classification Project](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
+ 
+ Context and Objective
+ 
+- A bank wants to forecast which customers have a higher possibility to apply for and getting accepted for a personal loan.
+- The goal of the project is to through classification model predict which clients will apply for the loan. 
+- Determine most important features in model building.  
+
+
+
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
