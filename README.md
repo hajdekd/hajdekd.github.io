@@ -7,8 +7,8 @@ layout: page
 
 
 
-
- ## [Classification](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
+## [Classification](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
+ 
  
  **Context and Objective**
  
