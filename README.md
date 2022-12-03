@@ -39,7 +39,22 @@ Techniques applied in the project are log transformation and treating outliers.
 
 ## [Ensemble Learning](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Ensemble_Lab.ipynb)
 
-**Description**
+**Overview**
+
+For this project, the objective is to forecast which clients might default in paying back their loans. 
+Credit data set is used for the exercise.   
+
+After performing thorough EDA and data pre-processing, the following models are created:
+* Decision Tree Classifier
+* Random Forest Classifier
+* Bagging Classifier
+* AdaBoost Classifier
+* Gradient Boosting Classifier
+* XGBoost Classifier  
+
+Each of the models is afterwards Hyperparameter tunned. 
+Predictions from multiple models are combined to seek the best predictive performance.
+
 
 
 
