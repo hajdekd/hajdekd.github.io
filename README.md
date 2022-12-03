@@ -10,11 +10,15 @@ layout: page
 ## [Classification](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Classification_Labipynb.ipynb)
  
  
- **Description**
+ **Overview**
  
-- A bank wants to forecast which customers have a higher possibility to apply for and getting accepted for a personal loan.
-- The goal of the project is to through classification model predict which clients will apply for the loan. 
-- Determine most important features in model building.  
+The Loan dataset used for the project contains 14 variables and 5000 observations, without missing values. 
+
+The objective of the project is to through logistic regression models predict which clients will apply for the loan. Additionally, the aim is to determine importance of features in model building. Following models are built and compared: 
+
+* Decision Tree Without Hyperparameters
+* Decision Tree With Hyperparameters
+* Decision Tree With Cost Complexity Pruning
 
 
 
