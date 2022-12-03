@@ -21,7 +21,7 @@ The objective of the project is to through logistic regression models predict wh
 * Decision Tree With Cost Complexity Pruning 
 
 
-![screenshot](https://github.com/hajdekd/Data-Science-Projects/blob/main/Classification3.PNG)
+![image](https://github.com/hajdekd/Data-Science-Projects/blob/main/Classification3.PNG)
 
 
 
