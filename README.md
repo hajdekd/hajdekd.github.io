@@ -26,8 +26,10 @@ The objective of the project is to through logistic regression models predict wh
 
 ## [Linear Regression](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Linear_Regression_Assignment.ipynb)
 
-**Description**
+**Overview**
 
+The goal for the project is provide forecast in prices of used cars in market that was impacted by COVID-19 pandemic. 
+The Used Cars data set consists of both continuous and numerical variables. Some of the techniques applied in the project are log transformation and treating outliers. 
 
 
 ## [Ensemble](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Ensemble_Lab.ipynb)
