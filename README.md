@@ -33,7 +33,7 @@ The goal for the project is to provide forecast in prices of used cars in market
 The Used Cars dataset consists of both continuous and numerical variables. Some of the techniques applied in the project are log transformation and treating outliers. 
 
 
-## [Ensemble](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Ensemble_Lab.ipynb)
+## [Ensemble Learning](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Ensemble_Lab.ipynb)
 
 **Description**
 
