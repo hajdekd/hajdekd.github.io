@@ -20,6 +20,8 @@ The objective of the project is to through logistic regression models predict wh
 * Decision Tree With Hyperparameters
 * Decision Tree With Cost Complexity Pruning
 
+	![](https://github.com/hajdekd/Data-Science-Projects/blob/main/Images/Classification3.PNG)
+
 
 
 ## [Linear Regression](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Linear_Regression_Assignment.ipynb)
