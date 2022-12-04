@@ -31,6 +31,6 @@ comments:
 #  isso_domain: ""         # see https://posativ.org/isso/
 
 
-theme: slate
+theme: jekyll-theme-slate
 plugins:
  - jekyll-feed
