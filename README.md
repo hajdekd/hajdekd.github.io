@@ -52,6 +52,8 @@ After performing thorough EDA and data pre-processing, the following models are 
 Each of the models is afterwards Hyperparameter tunned. 
 Predictions from multiple models are combined to seek the best predictive performance.
 
+![](/Images/ensemble.PNG) 
+
 
 
 ## [Unsupervised Learning](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Unsupervised_ML_Clustering_Lab.ipynb)
@@ -61,6 +63,8 @@ Predictions from multiple models are combined to seek the best predictive perfor
 The goal of the project is to identify different types of engineering colleges (clusters) to better understand their ranks and information.  
 The [data](https://github.com/hajdekd/Data-Science-Projects/blob/main/colleges_dataset.xlsx) contains a survey of 26 engineering colleges.  
 The survey has summarized the data into a rating scale of 1-5 for different factors. 
+
+![](/Images/Unsupervised.PNG) 
 
 
 ## [Data Visualization With Shiny App From RStudio](https://github.com/hajdekd/Data-Science-Projects/blob/main/Dalibor_Hajdek_Energy_Consumption.R)
@@ -72,6 +76,8 @@ Many countries have experienced significant rise in GDP over the last several de
 Using visualizations, the goal is to communicate consumption of main energy resources that include oil, gas, coal, and renewable energy on global level, and provide analysis for five countries with highest gross domestic product in the world.  
 Furthermore, the analysis focuses on period from 1995 through 2015.  
 [Enregy Consumption](https://github.com/hajdekd/Data-Science-Projects/blob/main/Energy.Consumption.csv) and [GDP and Population](https://github.com/hajdekd/Data-Science-Projects/blob/main/GDP.and.Population.csv) datasets are used for the project.
+
+![](/Images/Shiny.PNG) 
 
 
 
