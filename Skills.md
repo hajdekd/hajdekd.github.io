@@ -1,6 +1,6 @@
 ---
 
-title: "Projects"
+title: ""
 layout: page
 
 ---
