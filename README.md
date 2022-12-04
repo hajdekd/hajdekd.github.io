@@ -12,9 +12,8 @@ layout: page
  
  **Overview**
  
-The Loan dataset used for the project contains 14 variables and 5000 observations, without missing values. 
-
-The objective of the project is to through logistic regression models predict which clients will apply for the loan. Additionally, the aim is to determine importance of features in model building. Following models are built and compared: 
+The objective of the project is to through logistic regression models predict which clients will apply for a bank loan. Additionally, the aim is to determine importance of features in model building. The [Loan](https://github.com/hajdekd/Data-Science-Projects/blob/main/Loan_dataset.csv) dataset used for the project contains 14 variables and 5000 observations, without missing values.  
+Following models are built and compared: 
 
 * Decision Tree Without Hyperparameters
 * Decision Tree With Hyperparameters
