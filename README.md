@@ -1,6 +1,6 @@
 ---
 title: "Projects"
-permalink: "/about/"
+permalink: "/Portfolio/"
 layout: page
 ---
 
