@@ -30,5 +30,7 @@ comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
 
+
+theme: slate
 plugins:
  - jekyll-feed
